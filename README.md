@@ -2,7 +2,7 @@
 
 ### Functionality Structure
 
-.
+```
 +-- \_config.yml
 +-- \_drafts
 | +-- begin-with-the-crazy-ideas.textile
@@ -20,3 +20,4 @@
 | +-- members.yml
 +-- \_site
 +-- index.html
+```
