@@ -3,7 +3,7 @@
 ### Functionality Structure
 
 ```
-project
+parent
 │   README.md
 │   file001.txt
 │
