@@ -24,3 +24,4 @@ parent
 ### Standards
 - When writing `savedInstanceState` variables/properties start with `KEY_` eg. `KEY_DATE_OF_BIRTH` etc
 - StackOverFlow pradigm - when the page is teaching something always provide a way to rate the content
+- When reading code, dont let any unclear part slide, google it and google it more untill its clear
