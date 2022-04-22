@@ -20,3 +20,6 @@ parent
     │   file021.txt
     │   file022.txt
 ```
+
+### Standards
+- When writing `savedInstanceState` variables/properties start with `KEY_` eg. `KEY_DATE_OF_BIRTH` etc
